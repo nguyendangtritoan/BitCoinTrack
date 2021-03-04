@@ -10,4 +10,4 @@ Feel free to fetch this repo and create your own ios app for your phone :D
 
 ## Interface
 
-![Ảnh chụp Màn hình 2021-03-03 lúc 12 38 21](https://user-images.githubusercontent.com/45658401/109793476-5cef1400-7c1d-11eb-98ae-6d89314c5dc7.png)
+![image](https://user-images.githubusercontent.com/45658401/109891931-acbbf280-7c92-11eb-8e83-1d155ff82bc1.png)
